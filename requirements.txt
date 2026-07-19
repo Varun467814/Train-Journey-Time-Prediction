@@ -1,0 +1,7 @@
+﻿# Dependencies for Train Journey Prediction
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit
+joblib
